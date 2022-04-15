@@ -108,4 +108,4 @@ Your health will be printed
 dead == True, the game is ended. If you don't want to play game till the end, you can just write 'end'.
 
 ### else
-If there is no suh action. You will get a string about that on the screen.
+If there is no such action. You will get a string about that on the screen.
